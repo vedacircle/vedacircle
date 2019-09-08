@@ -1530,3 +1530,99 @@ blink {
   height: 250px;
   border-radius: 50%;
 }
+
+.content-mid1 {
+    padding: 0;
+} 
+
+/*----*/
+.content-mid1{
+	padding:0;
+}
+.content-mid2{
+	padding:5em 2em;
+	background-color: #FCFCFC;
+}
+.content-mid-img{
+	background: url(../img/lord_venky.jpg) no-repeat center;
+    width: 95%;
+    background-size: cover;
+    height: 518px;
+}
+.content-mid-img1{
+	background: url(../img/lord_shiva.jpg) no-repeat center;
+    width: 100%;
+    background-size: cover;
+    height: 518px;
+}
+.grid-mid label{
+	background: #02C7DA;
+    width:70px;
+	height:3px;
+	display:block;
+	 border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -o-border-radius: 20px;
+    -mos-border-radius: 20px;
+    -moz-border-radius: 20px;
+	    margin-bottom: 0.5em;
+}
+.grid-mid h3{
+	color: #02C7DA;
+    font-size: 2em; 
+    letter-spacing: 1px;
+}
+.grid-mid p {
+    font-size: 1em;
+    color: #7C7C7C;
+    line-height: 1.7em;
+	    margin-top: 0.5em;
+}
+.news-in h5{
+	color: #02C7DA;
+    font-size: 1.2em; 
+    letter-spacing: 1px;
+}
+.news-in h5 a{
+	color: #02C7DA;
+    text-decoration:none;
+}
+.news-in h5 a:hover{
+	color: #000;
+}
+.news-in p {
+  font-size: 1em;
+  color: #7C7C7C;
+  line-height: 1.7em;
+}
+.news-in,.latest-grid {
+  padding: 0;
+}
+.news-in {
+  text-align: right;
+}
+.in-news{
+	text-align: left;
+}
+.news-top {
+  padding: 1em 0 0;
+}
+.news h4 {
+  color: #000000;
+    font-size: 1em;
+    text-transform: uppercase;
+    text-align: center;
+    border: 2px dotted #02CAE4;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -o-border-radius: 100px;
+    -mos-border-radius: 100px;
+    -moz-border-radius: 100px;
+    width: 65px;
+    height: 65px;
+    padding: 0.9em 0 0;
+}
+.news h4 span {
+  display: block;
+  font-size: 12px;
+}
