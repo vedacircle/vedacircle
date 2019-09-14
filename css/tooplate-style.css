@@ -1524,10 +1524,10 @@ blink {
 } 
 .avatar {
   vertical-align: middle;
-  width: 250px;
+  width: 225px;
   margin-left:20px;
   margin-top:50px;
-  height: 250px;
+  height: 225px;
   border-radius: 50%;
 }
 
