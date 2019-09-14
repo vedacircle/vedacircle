@@ -1292,7 +1292,7 @@ blink {
   cursor: default;
   position: absolute;
   display: flex;
-  width: 110vmin;
+  width: 140vmin;
   height: 45vmin;
   border-radius: 500px 5vmin 5vmin 500px;
   color: white;
