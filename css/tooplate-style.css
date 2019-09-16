@@ -1292,7 +1292,7 @@ blink {
   cursor: default;
   position: absolute;
   display: flex;
-  width: 110vmin;
+  width: 150vmin;
   height: 45vmin;
   border-radius: 500px 5vmin 5vmin 500px;
   color: white;
@@ -1524,10 +1524,10 @@ blink {
 } 
 .avatar {
   vertical-align: middle;
-  width: 250px;
+  width: 225px;
   margin-left:20px;
   margin-top:50px;
-  height: 250px;
+  height: 225px;
   border-radius: 50%;
 }
 
