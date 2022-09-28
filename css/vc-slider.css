@@ -211,10 +211,10 @@ Single slide style
   background-repeat: no-repeat;
 }
 .cd-vc-slider li:first-of-type {
-  background-image: url(../img/home/rama-yagnam.gif);
+  background-image: url(../img/home/Invitation.png);
 }
 .cd-vc-slider li:nth-of-type(2) {
-  background-image: url(../img/home/rama-yagnam.gif);
+  background-image: url(../img/home/event-details.png); 
 }
 .cd-vc-slider li:nth-of-type(3) {
   background-image: url(../img/home/home_bg_02.jpg);
